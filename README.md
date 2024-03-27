@@ -240,42 +240,13 @@
 </tr>
 </table>
 </details>
-<details>
-<summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
-    
+<!--<details>
+ <summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>    
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)	
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/hunterdii9879/)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Hunterdii)
-
-</details>
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
-  <p>
-    <a href="<a href="https://git.io/streak-stats"">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats-vert-eta.vercel.app?user=
-Starshadow0707&theme=github-dark-blue&card_width=450"/>
-
-<!--
-  <h3>💻 GitHub Profile Stats</h3>
-  <!-- https://github.com/Hunterdii/github-readme-stats -->
-  <!--
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=
-Starshadow0707&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=
-Starshadow0707&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>   
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="
-Starshadow0707's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=
-Starshadow0707&theme=github-dark" /></a>
-
+ -->
 </details>
 <details> 
   <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
@@ -287,7 +258,13 @@ Starshadow0707&theme=github-dark" /></a>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
---!>
+
+<h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" />
+
+
+
         
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascriptclass ReadMe:
@@ -318,11 +295,7 @@ Starshadow0707&theme=github-dark" /></a>
 me = ReadMe()
 ```
 
-<!--
-<h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" />
---!>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> 😊</em>
 
