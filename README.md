@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;Hey+It's+Het(Hunter)+Patel+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;Computer+Science+In+BCA;With+Specialization+In+%E2%9A%99%EF%B8%8F;Cyber+Security+%26+Cyber+Forensic;From+PU+Vadodara+%F0%9F%8F%AB;I+Am+a+Cloud+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Het Patel" height="55" width="700">
+
+# Hello, I am Het<img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/butterfly.gif" width=30%><img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/dog.gif" width=20%>
+
 
 <p align="center" >
     <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
@@ -12,6 +17,23 @@
 [](https://github-profile-trophy.vercel.app/?username=Starshadow0707&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
+<!-- retro visitor counter -->  
+
+  
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0422.gif" > 
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" width=9000 height=2> 
+  
+   
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
+</p>
 
 
 <p align='center'>
@@ -28,8 +50,26 @@
 
 <a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+      
 </p>
 
+  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif">
+  
+  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif" width=9000> 
 
 
 
