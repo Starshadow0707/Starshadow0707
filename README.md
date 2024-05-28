@@ -73,3 +73,23 @@
 
 
 
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&show_icons=true&count_private=true&hide_border=true" />
+  <br></br>
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  </td>
+</tr>
+</table>
+
+<br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gg5aldurvd7v6zbbszo453ijqm)
