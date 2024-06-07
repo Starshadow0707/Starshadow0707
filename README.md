@@ -73,7 +73,7 @@
 <h3>🏗️ Contributions (3D View) </h3> 
 <div align="center">
         
-![3D-Graph-Contribution](https://github.com/Starshadow0707/Starshadow0707/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![3D-Graph-Contribution](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/main/profile-3d-contrib/profile-gitblock.svg)
 </div>
 
 
