@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg"
+  <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
 </p>
 
 
