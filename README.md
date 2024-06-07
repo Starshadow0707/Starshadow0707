@@ -77,7 +77,7 @@
 </div>
 
 
-<table border="0" align="center">
+<!--<table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
@@ -92,7 +92,25 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
   </td>
 </tr>
+</table>-->
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <br></br>
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=elegant&hide_border=false" />
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=450&langs_count=8&hide_border=false"/>
+  </td>
+</tr>
 </table>
+
+
 
 <br>
 
