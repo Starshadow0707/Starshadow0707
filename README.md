@@ -97,14 +97,14 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&hide_border=true&bg_color=0,000000,130F40" />
   <br></br>
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=elegant&hide_border=false" />
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=elegant&hide_border=true" />
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=450&langs_count=8&hide_border=false"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=450&langs_count=8&hide_border=true"/>
   </td>
 </tr>
 </table>
