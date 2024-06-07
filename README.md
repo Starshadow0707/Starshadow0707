@@ -5,16 +5,15 @@
 # Hello, I am Het<img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/butterfly.gif" width=30%><img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/dog.gif" width=20%>
 
 
-<p align="center" >
-    <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-        <img width="450px" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-    </a>
+
+<p align='center'>
+  <img align="center" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg"
 </p>
 
-<p>
 
+<p>   
     
-[](https://github-profile-trophy.vercel.app/?username=Starshadow0707&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Starshadow0707&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 <!-- retro visitor counter -->  
