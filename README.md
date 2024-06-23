@@ -113,5 +113,16 @@
 
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gg5aldurvd7v6zbbszo453ijqm)
+<!--[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gg5aldurvd7v6zbbszo453ijqm)-->
+
+<!--🖼️⭐🔱STARRED/FORK-->
+<h4 align="center">
+<div align="center">
+<table>
+  <tr>
+    <td><p align="center"><a href="https://github.com/Hunterdii?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS 🌟</b></a>
+    <td><p align="center"><a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING 🔱</b></a>
+  </tr>
+</table></h4>
+ </div>
 
