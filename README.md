@@ -132,7 +132,7 @@
 </tr>
     <tr>
       <td align='center' width="190">
-            <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
     </td>
         <td align='center' width="190">
             <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
