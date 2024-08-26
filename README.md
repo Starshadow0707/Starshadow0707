@@ -205,11 +205,11 @@
     </tr>
     </tr>
 </table>
-    <table width="100">
+    <table width="40">
     <h3>🧰 Frameworks and Libraries</h3>
     <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+    <td align='center' width="190" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original-wordmark.svg" height="100">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
