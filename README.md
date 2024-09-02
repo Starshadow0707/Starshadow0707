@@ -10,6 +10,8 @@
   <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
 </p>
 
+### :sparkles: [My followers](src/getTopFollowers.py)
+
 
 <p>   
     
