@@ -28,12 +28,6 @@ jobs:
         LANG_COUNT: 5
         SHOW_MASKED_TIME: false
         STOP_AT_OTHER: false
-        TARGET_BRANCH: ""  # Leave empty if not used
-        TARGET_PATH: ""    # Leave empty if not used
-        COMMITTER_NAME: "" # Leave empty if not used
-        COMMITTER_EMAIL: "" # Leave empty if not used
-        AUTHOR_NAME: ""    # Leave empty if not used
-        AUTHOR_EMAIL: ""   # Leave empty if not used
       env:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
