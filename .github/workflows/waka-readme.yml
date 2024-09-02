@@ -13,7 +13,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Update WakaReadme
-      uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
+      uses: athul/waka-readme@master
       with:
         COMMIT_MESSAGE: Update Wakapi stats
         BLOCKS: ⬜🟨🟩
