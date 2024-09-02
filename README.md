@@ -9,21 +9,15 @@
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
 </p>
-
+  
+---
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Hunterdii">
-        <img src="https://avatars2.githubusercontent.com/u/124852522" width="100px;" alt="wizardforcel"/>
-    </a>
-      <br />
-      <a href="https://github.com/Hunterdii">Het Patel</a>
-    </td>
-    </tr>
-</table>
+
+---
+
+
 
 <p>   
     
