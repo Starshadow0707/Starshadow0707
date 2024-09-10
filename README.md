@@ -9,15 +9,14 @@
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
 </p>
-  
+
 ---
-### :sparkles: [My followers](src/getTopFollowers.py)
+### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-<table>
-  </tr>
-</table>
+
 <!--END_SECTION:top-followers-->
+
 
 
 <p>   
