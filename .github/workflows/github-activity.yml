@@ -1,5 +1,4 @@
 name: GitHub - Activity - Readme
-
 on:
   schedule:
     - cron: "0 21 * * *"
@@ -11,6 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v1.0.0  # Alternative action
+      -   uses: Starshadow0707/github-activity-readme@v0.4.4  # Alternative action
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
