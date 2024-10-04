@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Starshadow0707/github-activity-readme@main  # Replace with a valid version
+      - uses: jamesgeorge007/github-activity-readme@v1.0.0  # Alternative action
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
