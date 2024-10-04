@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-  
+1. 💪 Opened PR [#2](https://github.com/Hunterdii/GitHub-Terminal/pull/2) in [Hunterdii/GitHub-Terminal](https://github.com/Hunterdii/GitHub-Terminal)
 <!--END_SECTION:activity-->
 
 
