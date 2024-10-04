@@ -4,6 +4,13 @@
 
 # Hello, I am Het<img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/butterfly.gif" width=30%><img src="https://github.com/Starshadow0707/Starshadow0707/blob/main/dog.gif" width=20%>
 
+ <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+  
+<!--END_SECTION:activity-->
 
 
 <p align='center'>
