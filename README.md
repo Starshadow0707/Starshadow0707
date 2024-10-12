@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Starshadow0707/Online-Flight-Reservation-System/pull/2) in [Starshadow0707/Online-Flight-Reservation-System](https://github.com/Starshadow0707/Online-Flight-Reservation-System)
+1. 🎉 Merged PR [#1](https://github.com/Starshadow0707/CodeClause-Java-Internship/pull/1) in [Starshadow0707/CodeClause-Java-Internship](https://github.com/Starshadow0707/CodeClause-Java-Internship)
 <!--END_SECTION:activity-->
 
 
