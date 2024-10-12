@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Hunterdii/GitHub-Terminal/pull/2) in [Hunterdii/GitHub-Terminal](https://github.com/Hunterdii/GitHub-Terminal)
+1. 🎉 Merged PR [#2](https://github.com/Starshadow0707/Online-Flight-Reservation-System/pull/2) in [Starshadow0707/Online-Flight-Reservation-System](https://github.com/Starshadow0707/Online-Flight-Reservation-System)
 <!--END_SECTION:activity-->
 
 
