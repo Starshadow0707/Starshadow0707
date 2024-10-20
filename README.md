@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Starshadow0707/Weather-App/pull/1) in [Starshadow0707/Weather-App](https://github.com/Starshadow0707/Weather-App)
+1. 🎉 Merged PR [#1](https://github.com/Starshadow0707/Rakshabandhan/pull/1) in [Starshadow0707/Rakshabandhan](https://github.com/Starshadow0707/Rakshabandhan)
 <!--END_SECTION:activity-->
 
 
