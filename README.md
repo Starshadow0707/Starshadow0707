@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Starshadow0707/Rakshabandhan/pull/1) in [Starshadow0707/Rakshabandhan](https://github.com/Starshadow0707/Rakshabandhan)
+1. 💪 Opened PR [#18](https://github.com/Hunterdii/GeeksforGeeks-POTD/pull/18) in [Hunterdii/GeeksforGeeks-POTD](https://github.com/Hunterdii/GeeksforGeeks-POTD)
 <!--END_SECTION:activity-->
 
 
