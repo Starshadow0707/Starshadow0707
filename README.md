@@ -78,9 +78,42 @@
   
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake.gif">
-  <img alt="github contribution grid snake animation" src="https://github.com/Starshadow0707/Starshadow0707/blob/output/github-contribution-grid-snake.svg">
+ 
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-psychedelic.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-3d-illusion.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-animated-pulse.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-aurora.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-blue-red.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-bubblegum.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-cosmiceclipse.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-cybermist.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-cyberpunk.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-default.gif)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-dracula.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-fast-pulse.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-frozen-blue.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-glitter-gold.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-glowing-cyan.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-googledark.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-hacker.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-googlelight.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-monokai.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-rainbow-blast.gif)
+
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-powershell.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-neon-green.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-orange-blue.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-pastel-colors.gif)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Starshadow0707/Starshadow0707/output/github-contribution-grid-snake-smooth-rainbow.gif)
+
+
 </picture>
 
 
