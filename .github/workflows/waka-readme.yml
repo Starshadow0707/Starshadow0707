@@ -21,7 +21,7 @@ jobs:
         SHOW_TITLE: true
         SHOW_TOTAL: true
         API_BASE_URL: https://wakatime.com/api
-        REPOSITORY: VoidSon-Stubs/VoidSon-Stubs
+        REPOSITORY: Starshadow0707/Starshadow0707
         SECTION_NAME: waka
         CODE_LANG: txt
         LANG_COUNT: 5
