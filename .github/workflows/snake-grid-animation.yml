@@ -3,7 +3,7 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+    # every 12 hours
     - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
@@ -32,13 +32,23 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            # SVG Outputs:
+            dist/github-contribution-grid-snake-original.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#ff0000,#00ff00,#0000ff
-            dist/github-contribution-grid-snake.gif?animation_speed=slow&color_snake=orange&color_dots=#a0d2ff,#4b91f1
+            dist/github-contribution-grid-snake-rainbow.svg?palette=rainbow
+            dist/github-contribution-grid-snake-neon.svg?palette=neon
+
+            # GIF Outputs:
+            dist/github-contribution-grid-snake-orange-blue.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-blue-red.gif?color_snake=blue&color_dots=#ff0000,#00ff00,#0000ff
+            dist/github-contribution-grid-snake-slow-orange-blue.gif?animation_speed=slow&color_snake=orange&color_dots=#a0d2ff,#4b91f1
+            dist/github-contribution-grid-snake-fast-purple-yellow.gif?animation_speed=fast&color_snake=purple&color_dots=#f4a261,#2a9d8f
+            dist/github-contribution-grid-snake-pulse.gif?animation_speed=slow&color_snake=cyan&color_dots=#e76f51,#264653
+            dist/github-contribution-grid-snake-rainbow-smooth.gif?animation_speed=slow&color_snake=rainbow&color_dots=#ff77ff,#39ff14,#ff5722
+            dist/github-contribution-grid-snake-glowing.gif?color_snake=neongreen&color_dots=#ff4b7d,#ff9e2b
+
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
