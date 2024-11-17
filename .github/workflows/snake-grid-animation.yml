@@ -14,48 +14,49 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-      
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |            
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-orange-blue.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-contribution-grid-snake-blue-red.gif?color_snake=blue&color_dots=#ff0000,#00ff00,#0000ff
-            dist/github-contribution-grid-snake-smooth-rainbow.gif?animation_speed=slow&color_snake=rainbow&color_dots=#ff77ff,#39ff14,#ff5722
-            dist/github-contribution-grid-snake-glowing-cyan.gif?animation_speed=medium&color_snake=cyan&color_dots=#e76f51,#264653
-            dist/github-contribution-grid-snake-3d-illusion.gif?animation_speed=slow&color_snake=blue&color_dots=#ffd700,#008080
-            dist/github-contribution-grid-snake-fast-pulse.gif?animation_speed=fast&color_snake=purple&color_dots=#f4a261,#2a9d8f
-            dist/github-contribution-grid-snake-pulse-blue-yellow.gif?animation_speed=medium&color_snake=blue&color_dots=#ff7f00,#ffdd00
-            dist/github-contribution-grid-snake-neon-green.gif?color_snake=green&color_dots=#00ff00,#000000
-            dist/github-contribution-grid-snake-pastel-colors.gif?color_snake=purple&color_dots=#f1e1f6,#a8d0e6
-            dist/github-contribution-grid-snake-psychedelic.gif?animation_speed=fast&color_snake=yellow&color_dots=#e63946,#f1faee,#a8dadc
-            dist/github-contribution-grid-snake-animated-pulse.gif?animation_speed=fast&color_snake=red&color_dots=#ff6347,#ff4500
-            dist/github-contribution-grid-snake-bubblegum.gif?color_snake=pink&color_dots=#e1bee7,#f48fb1
-            dist/github-contribution-grid-snake-electric-blue.gif?color_snake=blue&color_dots=#00bcd4,#03a9f4
-            dist/github-contribution-grid-snake-frozen-blue.gif?animation_speed=slow&color_snake=blue&color_dots=#4dd0e1,#0288d1
-            dist/github-contribution-grid-snake-cyberpunk.gif?color_snake=magenta&color_dots=#9c27b0,#3f51b5
-            dist/github-contribution-grid-snake-glitter-gold.gif?animation_speed=medium&color_snake=gold&color_dots=#ffb300,#ff9800
-            dist/github-contribution-grid-snake-rainbow-blast.gif?animation_speed=medium&color_snake=rainbow&color_dots=#ff5733,#33ff57,#5733ff
-            dist/github-contribution-grid-snake-aurora.gif?animation_speed=slow&color_snake=cyan&color_dots=#00bcd4,#ffeb3b
-            dist/github-contribution-grid-snake-ubuntu.gif?color_snake=#5cbe09&color_dots=#300a24,#ffffff
-            dist/github-contribution-grid-snake-default.gif?color_snake=#f8f8f2&color_dots=#272822,#f8f8f2
-            dist/github-contribution-grid-snake-dracula.gif?color_snake=#50fa7b&color_dots=#282A36,#F8F8F2
-            dist/github-contribution-grid-snake-monokai.gif?color_snake=#b4d273&color_dots=#2e2e2e,#d6d6d6
-            dist/github-contribution-grid-snake-atom.gif?color_snake=#94fa36&color_dots=#161719,#c5c8c6
-            dist/github-contribution-grid-snake-googledark.gif?color_snake=#34A853&color_dots=#202124,#E8EAED
-            dist/github-contribution-grid-snake-googlelight.gif?color_snake=#34A853&color_dots=#FFFFFF,#5F6368
-            dist/github-contribution-grid-snake-powershell.gif?color_snake=#1CFE3C&color_dots=#052454,#F6F6F7
-            dist/github-contribution-grid-snake-hacker.gif?color_snake=#00FF00&color_dots=#000000,#00FF00
-            dist/github-contribution-grid-snake-cosmiceclipse.gif?color_snake=#0fbcf9&color_dots=#1a1a2e,#ffffff
-            dist/github-contribution-grid-snake-cybermist.gif?color_snake=#00e676&color_dots=#121212,#009688
+            dist/github-contribution-grid-snake-blue-red.gif?color_snake=blue&color_dots=#ff0000,#00ff00,#0000ff,#ff6347,#ffdd00
+            dist/github-contribution-grid-snake-smooth-rainbow.gif?animation_speed=slow&color_snake=rainbow&color_dots=#ff77ff,#39ff14,#ff5722,#ffcc00,#00ffcc
+            dist/github-contribution-grid-snake-glowing-cyan.gif?animation_speed=medium&color_snake=cyan&color_dots=#e76f51,#264653,#00bcd4,#ff5722,#f44336
+            dist/github-contribution-grid-snake-3d-illusion.gif?animation_speed=slow&color_snake=blue&color_dots=#ffd700,#008080,#f44336,#7e57c2,#8bc34a
+            dist/github-contribution-grid-snake-fast-pulse.gif?animation_speed=fast&color_snake=purple&color_dots=#f4a261,#2a9d8f,#9c27b0,#2196f3,#4caf50
+            dist/github-contribution-grid-snake-pulse-blue-yellow.gif?animation_speed=medium&color_snake=blue&color_dots=#ff7f00,#ffdd00,#0000ff,#ff6347,#ff1493
+            dist/github-contribution-grid-snake-neon-green.gif?color_snake=green&color_dots=#00ff00,#000000,#ff00ff,#ff6347,#f44336
+            dist/github-contribution-grid-snake-pastel-colors.gif?color_snake=purple&color_dots=#f1e1f6,#a8d0e6,#ffb6c1,#ffd54f,#c5e1a5
+            dist/github-contribution-grid-snake-psychedelic.gif?animation_speed=fast&color_snake=yellow&color_dots=#e63946,#f1faee,#a8dadc,#ff0044,#ff77ff
+            dist/github-contribution-grid-snake-animated-pulse.gif?animation_speed=fast&color_snake=red&color_dots=#ff6347,#ff4500,#f44336,#ff8c00,#ff1493
+            dist/github-contribution-grid-snake-bubblegum.gif?color_snake=pink&color_dots=#e1bee7,#f48fb1,#ffb6c1,#f06292,#e91e63
+            dist/github-contribution-grid-snake-electric-blue.gif?color_snake=blue&color_dots=#00bcd4,#03a9f4,#2962ff,#2196f3,#00e5ff
+            dist/github-contribution-grid-snake-frozen-blue.gif?animation_speed=slow&color_snake=blue&color_dots=#4dd0e1,#0288d1,#81d4fa,#00bcd4,#039be5
+            dist/github-contribution-grid-snake-cyberpunk.gif?color_snake=magenta&color_dots=#9c27b0,#3f51b5,#7e57c2,#9c27b0,#e91e63
+            dist/github-contribution-grid-snake-glitter-gold.gif?animation_speed=medium&color_snake=gold&color_dots=#ffb300,#ff9800,#ffd700,#ffa000,#ff5722
+            dist/github-contribution-grid-snake-rainbow-blast.gif?animation_speed=medium&color_snake=rainbow&color_dots=#ff5733,#33ff57,#5733ff,#f44336,#ff9800
+            dist/github-contribution-grid-snake-aurora.gif?animation_speed=slow&color_snake=cyan&color_dots=#00bcd4,#ffeb3b,#8bc34a,#ff5722,#9c27b0
+            dist/github-contribution-grid-snake-ubuntu.gif?color_snake=#5cbe09&color_dots=#300a24,#ffffff,#ff9800,#ff5722,#ffeb3b
+            dist/github-contribution-grid-snake-default.gif?color_snake=#f8f8f2&color_dots=#272822,#f8f8f2,#8e44ad,#3498db,#f39c12
+            dist/github-contribution-grid-snake-dracula.gif?color_snake=#50fa7b&color_dots=#282A36,#F8F8F2,#ff79c6,#ff5555,#f1faee
+            dist/github-contribution-grid-snake-monokai.gif?color_snake=#b4d273&color_dots=#2e2e2e,#d6d6d6,#8e44ad,#e74c3c,#f39c12
+            dist/github-contribution-grid-snake-atom.gif?color_snake=#94fa36&color_dots=#161719,#c5c8c6,#1abc9c,#e67e22,#9b59b6
+            dist/github-contribution-grid-snake-googledark.gif?color_snake=#34A853&color_dots=#202124,#E8EAED,#4285F4,#FFBB00,#F45C5C
+            dist/github-contribution-grid-snake-googlelight.gif?color_snake=#34A853&color_dots=#FFFFFF,#5F6368,#4285F4,#FFBB00,#FF5722
+            dist/github-contribution-grid-snake-powershell.gif?color_snake=#1CFE3C&color_dots=#052454,#F6F6F7,#00bcd4,#ff9800,#8e44ad
+            dist/github-contribution-grid-snake-hacker.gif?color_snake=#00FF00&color_dots=#000000,#00FF00,#ff6347,#f44336,#ff5722
+            dist/github-contribution-grid-snake-cosmiceclipse.gif?color_snake=#0fbcf9&color_dots=#1a1a2e,#ffffff,#00bcd4,#4caf50,#ff5722
+            dist/github-contribution-grid-snake-cybermist.gif?color_snake=#00e676&color_dots=#121212,#009688,#8bc34a,#00bcd4,#607d8b
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: ensure the generated file exists
+      - name: Ensure the generated file exists
         run: |
           ls dist
           test -f dist/github-contribution-grid-snake.svg
