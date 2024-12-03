@@ -13,6 +13,11 @@
 <!--END_SECTION:activity-->
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
 </p>
