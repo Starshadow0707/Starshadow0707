@@ -19,7 +19,7 @@
 
 
 <p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/Terminal-Style/master/github_stats.svg"
+  <img align="center" src="https://raw.githubusercontent.com/Starshadow0707/GitHub-Terminal/refs/heads/master/github_stats.svg"
 </p>
 
 ---
