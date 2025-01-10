@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/Hunterdii/GeeksforGeeks-POTD/pull/18) in [Hunterdii/GeeksforGeeks-POTD](https://github.com/Hunterdii/GeeksforGeeks-POTD)
+1. 💪 Opened PR [#1](https://github.com/mahirtantod/30-Days-of-SQL/pull/1) in [mahirtantod/30-Days-of-SQL](https://github.com/mahirtantod/30-Days-of-SQL)
 <!--END_SECTION:activity-->
 
 
