@@ -27,6 +27,14 @@
 
 <!--START_SECTION:top-followers-->
 <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mahirtantod">
+        <img src="https://avatars2.githubusercontent.com/u/92781852" width="100px;" alt="mahirtantod"/>
+      </a>
+      <br />
+      <a href="https://github.com/mahirtantod">Mahir Tantod</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
