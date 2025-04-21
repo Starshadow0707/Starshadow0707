@@ -9,7 +9,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/mahirtantod/30-Days-of-SQL/pull/1) in [mahirtantod/30-Days-of-SQL](https://github.com/mahirtantod/30-Days-of-SQL)
+1. 🎉 Merged PR [#1](https://github.com/Starshadow0707/GitHub-Terminal/pull/1) in [Starshadow0707/GitHub-Terminal](https://github.com/Starshadow0707/GitHub-Terminal)
 <!--END_SECTION:activity-->
 
 
